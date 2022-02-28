@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MillionOfCodes
-- 👀 I’m interested in web designing and some back up
+- 👀 I’m interested in web designing and some backend
 - 🌱 I’m currently learning to master Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
